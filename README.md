@@ -31,6 +31,7 @@ Fiberhome GPIOAO_4 power on!!!!!      Multi dtb tool version: v2 .
  on working android 6.0.1 linux kernel I found partition table list, just before kernel android load. it means bootloader do this.
  
  Partition table get from SPL is :
+ 
         name                        offset              size              flag
 ===================================================================================
    0: bootloader                         0            400000                  0
