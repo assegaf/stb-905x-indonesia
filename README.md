@@ -560,3 +560,16 @@ Repack all the image, and burn it using Usb burning tool v2.1.7.0
 good luck
 
 
+MODIFIED FILE
+
+device/khadas/kvim/fstab.system.amlogic
+device/khadas/kvim/fstab.ab.amlogic
+
+./device/khadas/common/products/mbox/upgrade_4.9/aml_upgrade_package_avb.conf
+
+
+
+
+
+
+
